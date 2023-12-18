@@ -11,10 +11,10 @@ export default function AboutMe() {
         <h3 className="text-xlt">STUDENT</h3>
         <div>
           <p className="mt-2">
-            Hello! My name is Mariya and I am a student of the Faculty of Mechanics and Mathematics. Nice to meet you here!
+            Hi! My name is Mariya and I am a student of the Faculty of Mechanics and Mathematics. Nice to meet you here!
           </p>
-          <p>During my studies, I master various technologies and programming languages, such as HTML, CSS and JavaScript. My main focus is learning frameworks and tools like React.</p>
-          <p>I consider myself a responsible and orderly person. If you are looking for a young and energetic team member, I would be happy to discuss a possible collaboration!</p>
+          <p>During my studies, I master HTML, CSS, JavaScript, with a primary focus on learning React and other frameworks.</p>
+          <p>I consider myself a responsible and orderly person. If you are looking for an energetic team member, I would be happy to discuss a possible collaboration!</p>
         </div>
       </div>
     </div>
